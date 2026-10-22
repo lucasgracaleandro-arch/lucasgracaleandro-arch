@@ -1,5 +1,7 @@
 
-<img width="1500" height="673" alt="jojo 2" src="https://github.com/user-attachments/assets/ecce483d-3631-4f4a-b254-931cf51f0781" />
+
+<img width="1600" height="800" alt="my jojoart" src="https://github.com/user-attachments/assets/67f608a8-37e8-4cc3-9afb-9c87821e1589" />
+
 
 
 
@@ -58,4 +60,27 @@
 <img width="1390" height="636" alt="Jojo 1" src="https://github.com/user-attachments/assets/5457bffa-6c3a-41ba-8b26-c7998aaa54cb" />
 
 ══════════════════════════════════════════ ⋆★⋆ ═══════════════════════════════════════
+
+<img width="1426" height="620" alt="jojo 3" src="https://github.com/user-attachments/assets/5f9d7d23-2340-4eb8-b362-d3cdd59219b1" />
+
+══════════════════════════════════════════ ⋆★⋆ ═══════════════════════════════════════ 
+<img width="1505" height="1045" alt="jojo 4" src="https://github.com/user-attachments/assets/8534ba13-e3f5-44b4-9625-03a8675e2e7c" />
+
+══════════════════════════════════════════ ⋆★⋆ ═══════════════════════════════════════ 
+
+჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻
+
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=459000&vCenter=true&multiline=true&width=442&height=100&lines=Avisos+Finais+%E2%80%A2%F0%90%83%B7%E2%80%A2)](https://git.io/typing-svg)
+
+<h6 data-importer="text" align="left">✪ Se vocês ficaram curiosos para saber um pouco mais sobre mim, meus interesses ou oque eu venho desenvolvendo com minha equipe, fiquem à vontade para conhecer meus projetos. A maioria está disponível publicamente aqui no Git.</h6>
+
+<h6 data-importer="text" align="left">✪ E caso queira saber um pouco mais do GennisCode é só clicar no link da minha bio para conhecer nosso projeto, por lá vocês vão entender nossa proposta, conhecer um pouco mais sobre quem somos e oque queremos construir com esse projeto!</h6>
+
+###
+
+###
+჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻
+
 
