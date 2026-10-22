@@ -15,28 +15,39 @@
 
 ###
 
- |  ╔═════════════════════════════════════════════════════════════════════════════════╗| 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="57" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="57" alt="postgresql logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=html" height="57" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="57" alt="css logo"  />
+ | ════════════════════════════════════════════════════════════════════════════════ |
+<div data-importer="socials" align="left">
 </div>
-| ╚══════════════════════════════════════════════════════════════════════════════════╝|
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="64" alt="postgresql logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=html" height="64" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="64" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="64" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="64" alt="cplusplus logo"  />
+</div>
+
+###
+ | ════════════════════════════════════════════════════════════════════════════════ |
 
 ㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AFF00&center=true&vCenter=true&multiline=true&width=442&height=100&lines=%E2%9C%AA+JoJo's+Bizarre+Adventure+%E2%9C%AA;My+gallery+%26+Arts)](https://git.io/typing-svg)
 
 
-════════════════════════════════════ ⋆★⋆ ════════════════════════════════════
+══════════════════════════════════════════ ⋆★⋆ ══════════════════════════════════════════
 <img width="1390" height="636" alt="Jojo 1" src="https://github.com/user-attachments/assets/5457bffa-6c3a-41ba-8b26-c7998aaa54cb" />
 
 
 
 
     
-════════════════════════════════════ ⋆★⋆ ════════════════════════════════════
+══════════════════════════════════════════ ⋆★⋆ ══════════════════════════════════════════
   
