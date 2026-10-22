@@ -1,5 +1,6 @@
 
-<img width="1599" height="731" alt="LucasName" src="https://github.com/user-attachments/assets/2423bb3a-ed6c-4126-ab65-08b325423330" />
+<img width="1500" height="673" alt="jojo 2" src="https://github.com/user-attachments/assets/ecce483d-3631-4f4a-b254-931cf51f0781" />
+
 
 
    <p data-importer="text" align="center">👋𝙾𝚙𝚊 𝚛𝚊𝚙𝚊𝚣𝚒𝚊𝚍𝚊 𝚋𝚎𝚕𝚎𝚣𝚊?<br>=====================<br>
@@ -57,4 +58,4 @@
 <img width="1390" height="636" alt="Jojo 1" src="https://github.com/user-attachments/assets/5457bffa-6c3a-41ba-8b26-c7998aaa54cb" />
 
 ══════════════════════════════════════════ ⋆★⋆ ═══════════════════════════════════════
-  
+
