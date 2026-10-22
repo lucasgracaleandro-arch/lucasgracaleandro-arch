@@ -35,12 +35,23 @@
   <img src="https://cdn.simpleicons.org/c++/00599C" height="64" alt="cplusplus logo"  />
 </div>
 
+
+###
 ###
  | ════════════════════════════════════════════════════════════════════════════════ |
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7CFC00"  />
+</div>
 
+###
 ㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AFF00&center=true&vCenter=true&multiline=true&width=442&height=100&lines=%E2%9C%AA+JoJo's+Bizarre+Adventure+%E2%9C%AA;My+gallery+%26+Arts)](https://git.io/typing-svg)
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7CFC00"  />
+</div>
+
+###
 
 ══════════════════════════════════════════ ⋆★⋆ ══════════════════════════════════════════
 <img width="1390" height="636" alt="Jojo 1" src="https://github.com/user-attachments/assets/5457bffa-6c3a-41ba-8b26-c7998aaa54cb" />
