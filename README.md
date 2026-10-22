@@ -45,7 +45,7 @@
 
 ###
 ㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AFF00&center=true&vCenter=true&multiline=true&width=442&height=100&lines=%E2%9C%AA+JoJo's+Bizarre+Adventure+%E2%9C%AA;My+gallery+%26+Arts)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52AC00&center=true&vCenter=true&multiline=true&width=442&height=100&lines=%E2%9C%AA+JoJo's+Bizarre+Adventure+%E2%9C%AA;My+gallery+%26+Arts)](https://git.io/typing-svg)
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=7CFC00"  />
